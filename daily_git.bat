@@ -9,4 +9,3 @@ git push
 
 start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" "https://github.com/DevWithAnsh"
 
-pause
